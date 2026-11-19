@@ -1,0 +1,3 @@
+﻿algoritmo	grupos_sem_gram	grupos_com_gram	ARI_particoes
+K-Means	2	2	0.0311520541336877
+DBSCAN	6	10	0.36845272755879455

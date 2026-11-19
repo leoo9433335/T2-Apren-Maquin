@@ -1,0 +1,3 @@
+﻿cenario	k	silhueta	davies_bouldin	ARI_vs_original
+Original: log1p nas atividades 02,14,15,23	2	0.16923715834259834	2.058418759459889	1.0
+Alternativo: sem log1p nas atividades 02,14,15,23	2	0.18005405800998037	1.9753402629136705	0.8846877806717848

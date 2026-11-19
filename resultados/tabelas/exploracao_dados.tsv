@@ -1,0 +1,34 @@
+﻿coluna	tipo_pandas	ausentes	percentual_ausente	valores_distintos
+n°	int64	0	0.0	505
+GRAM	object	0	0.0	7
+Cor	int64	0	0.0	2
+Cores	object	0	0.0	26
+Borda	float64	1	0.1976284584980237	3
+Textura	object	1	0.1976284584980237	4
+Forma	object	2	0.3952569169960474	7
+Brilho	object	2	0.3952569169960474	6
+Muco	float64	2	0.3952569169960474	3
+Relevo	float64	3	0.5928853754940712	2
+Atividade 01	int64	0	0.0	2
+Atividade 02	float64	0	0.0	82
+Atividade 03	object	0	0.0	2
+Atividade 04	object	0	0.0	2
+Atividade 05	float64	0	0.0	35
+Atividade 06	float64	0	0.0	52
+Atividade 07	float64	0	0.0	60
+Atividade 08	float64	0	0.0	25
+Atividade 09	float64	0	0.0	122
+Atividade 10	float64	0	0.0	90
+Atividade 11	float64	0	0.0	69
+Atividade 12	float64	0	0.0	53
+Atividade 13	int64	0	0.0	4
+Atividade 14	float64	0	0.0	100
+Atividade 15	float64	0	0.0	106
+Atividade 16	object	0	0.0	2
+Atividade 17	int64	0	0.0	4
+Atividade 18	int64	0	0.0	4
+Atividade 19	int64	0	0.0	4
+Atividade 20	float64	27	5.335968379446641	4
+Atividade 21	float64	17	3.3596837944664033	4
+Atividade 22	int64	0	0.0	4
+Atividade 23	object	3	0.5928853754940712	442
