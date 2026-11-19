@@ -2,11 +2,8 @@
 
 ## Integrantes
 
-Preencher antes da entrega:
+Leonardo Duarte da Silva e Eduardo Henrique da Silva Cardoso
 
-- Nome completo - matricula
-- Nome completo - matricula
-- Nome completo - matricula
 
 ## Metodos escolhidos
 
